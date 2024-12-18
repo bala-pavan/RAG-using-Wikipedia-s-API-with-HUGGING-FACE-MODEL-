@@ -1,4 +1,4 @@
-Semantic similarity
+**Semantic similarity GENAI**
 Write a Python script that pulls the Wikipedia article of Munich, chunks it in a reasonable way,
 and stores the chunks in a RAG semantic similarity database. Then add a function that runs a
 query on that page, e.g. “Do people use bicycles in Munich?”, and prints the top hits.
